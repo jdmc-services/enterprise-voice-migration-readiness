@@ -1,0 +1,129 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "e534740fff39873b44a54bd3564ecb6ee52fe4776ae199f108841f96eb2ebf1e"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "719c0232bbde14a342b104003c2c7a6e53e243c5331fc223fb6faec3b5641295"
+    },
+    {
+      "path": "data/cost-assumptions.csv",
+      "sha256": "c9dbebda31f8cf27d756dc01ca96df66703700b98f59bd3602303cbbbc527394"
+    },
+    {
+      "path": "data/inventory.csv",
+      "sha256": "c2f86d92b8db3f3884990050c5aba1fe4e9a5140411bd2c9b0522aa3259b4717"
+    },
+    {
+      "path": "data/raci.csv",
+      "sha256": "bbee662ffaaa5ea885d9556d4c48a2c3b8505159c390d96ccf14f29776235a78"
+    },
+    {
+      "path": "data/risks.csv",
+      "sha256": "3378f1a24b551d8d47c1f489ddc05f6f38dc416e3638b03389b5657308b027fe"
+    },
+    {
+      "path": "data/waves.csv",
+      "sha256": "a6cd59c708e56eeab45e7aef73e9795ef6d44f425e4d6915af9c3e49b1809736"
+    },
+    {
+      "path": "docs/BENEFITS.md",
+      "sha256": "9bfbac3dc1323008cf7eb2cba497d9b39bfd2bd03cb8d4c018c7e18577dec73f"
+    },
+    {
+      "path": "docs/CASE.md",
+      "sha256": "8b7420f8da5144e73d07f4b54a83e922a036ca1477406bc3d4c1414b8ee8fcb6"
+    },
+    {
+      "path": "docs/CHARTER.md",
+      "sha256": "c1f24d587f625e4f9087b6353367ba0a1f66bad3d436859982ac5f86d07f55ae"
+    },
+    {
+      "path": "docs/CUTOVER.md",
+      "sha256": "f667d97d8219c5b64edc4a15c196ef983da4882d3590d4066d4f57ca55a5606f"
+    },
+    {
+      "path": "docs/DASHBOARD.md",
+      "sha256": "39c2db6f49e635e1afa367c55d27a3a470e4f2441acdd08deb4241e39b7acb92"
+    },
+    {
+      "path": "docs/DECISIONS.md",
+      "sha256": "4ffcb00d3314620a4d6ca2f8e49f2d5506c80afff884e0cb9b07067e5c1ebf91"
+    },
+    {
+      "path": "docs/DEPENDENCIES.md",
+      "sha256": "c39e9329e0c0e03a61ba7b2e7a25907ef218bf3f348db4ab2d283ee2939b90a7"
+    },
+    {
+      "path": "docs/ENGAGEMENT.md",
+      "sha256": "ea7b8b82be2332bdfb9c6329faed6b482842db9217aa48144bde22ed0569c262"
+    },
+    {
+      "path": "docs/PLAN.md",
+      "sha256": "626de0ce909d35b1a2b4307aeac696246211dfbfd731e40eb23410b95975163d"
+    },
+    {
+      "path": "docs/PROVIDERS.md",
+      "sha256": "6732700e49a332cd18f998f33da941f7307b3ba5874761f4d8f190508bbf61eb"
+    },
+    {
+      "path": "docs/QUALIFICATION.md",
+      "sha256": "e715d7b107b5261f65cfc2354056ac26135a370e585be1c0c0db35e943145215"
+    },
+    {
+      "path": "docs/RACI-NOTES.md",
+      "sha256": "fbb4731dd02118f1e71f5af0c7b914affc8ff87e84a2208aa8d28f8e2af782bf"
+    },
+    {
+      "path": "docs/WAVES.md",
+      "sha256": "14188e8999ac7b8d287e0f3953b9a4e7b16d65d81db729664b6d3f309eabef80"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cd08e88c3fa4c09d3f800a464b7a55e84b3b8c642c4a120cffe8260cd5ee83c4"
+    },
+    {
+      "path": "PRIVACY.md",
+      "sha256": "4d24ec024239287f2c35021c4e889656466f008dd929c3145e7948bc0a63b264"
+    },
+    {
+      "path": "publish-repository.ps1",
+      "sha256": "8f6f9b9898e4aeed126805c646df19170c5d49a7059892c5b890a9bb2eacd3c3"
+    },
+    {
+      "path": "README.md",
+      "sha256": "0b70a7fb799248f1a880adb503d19ee1d53dccbaa18d32bb64a1abedfa4002c7"
+    },
+    {
+      "path": "scripts/update-manifest.ps1",
+      "sha256": "57e5e9019b0e9c0ce00c15d85e0a4d79801f7384196486f5e11cce504c5399a9"
+    },
+    {
+      "path": "scripts/validate-repository.ps1",
+      "sha256": "a268609750ecc18f0641a95d443f8872a25af789cefc7b42ced4e9ff6478b364"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "8b2b20a7b8ddf7d9eadeaff4ee87d7a69c445a698e7fb302af6d05dd9e86ae53"
+    },
+    {
+      "path": "START-HERE.md",
+      "sha256": "fe022fa3cc537e91309e3c285701e951369f10bcaaa6b846f34964224d6b7b9e"
+    },
+    {
+      "path": "START-PUBLISH.md",
+      "sha256": "5d3d8a1d3caabd31c72321dce0302b96a24f15e7f030d9735c3a8e43942c79d1"
+    },
+    {
+      "path": "tests/test-publishing.ps1",
+      "sha256": "50d200b5ac99e4f21cd30464c55fe5152b17d58dd4edf25ce30b43b2f1b50cd3"
+    },
+    {
+      "path": "VALIDATION.md",
+      "sha256": "de5ea1b719eaa000a6b55e36b13da3bebe6e0b0be3d38fbb208936ecec245d45"
+    }
+  ]
+}

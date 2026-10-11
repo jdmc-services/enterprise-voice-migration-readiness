@@ -1,0 +1,6 @@
+key,value,unit
+billable_seats,12000,seats
+baseline_monthly,18,USD_per_seat
+target_monthly,16,USD_per_seat
+implementation,210000,USD
+overlap,90000,USD

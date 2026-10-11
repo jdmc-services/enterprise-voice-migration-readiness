@@ -1,0 +1,12 @@
+activity,Project_manager,Customer_owner,Carrier,Engineering,Service_desk,Security,Sponsor
+Scope and inventory,R,A,C,C,I,C,I
+Provider and contract approval,C,A,C,C,I,C,R
+Technical design and testing,C,C,C,A/R,C,C,I
+Port acceptance and activation,C,C,A/R,R,I,I,I
+Customer go/no-go,R,A,C,C,C,C,I
+Emergency readiness evidence,C,A,C,R,C,C,I
+Security and recording access review,C,C,C,R,I,A/R,I
+Incident coordination,R,A,R,R,R,C,I
+Support handover,C,A,C,R,R,C,I
+Residual business risk acceptance,R,C,C,C,I,C,A
+Disconnection and closeout,R,A,C,C,R,C,I

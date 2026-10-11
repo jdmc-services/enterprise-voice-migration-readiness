@@ -1,0 +1,13 @@
+id,risk,cause,consequence,owner,controls,escalation_trigger,residual
+R01,Port rejection,Authorization or service-record mismatch,Delayed activation,Project manager,Reconcile records and accepted orders,Carrier rejection or unknown ownership,Medium
+R02,Inventory errors,Missing or duplicated IDs,Unplanned service loss or incorrect scope,Customer service owner,Validate ranges and join approved service records,Any critical unidentified dependency,Medium
+R03,Partial port,Only part of order activates,Split routing and failed transfers,Carrier,Reconcile each activated ID and hold next wave,Mismatch in accepted versus activated scope,High
+R04,Routing and identity,Dial-plan or signaling mismatch,Failed calls or wrong identity,Engineering,End-to-end inbound outbound transfer and identity tests,Critical route fails,Medium
+R05,Toll-free transfer,Separate process overlooked,Inbound business calls fail,Carrier,Separate ownership process and test plan,Missing transfer acceptance,Medium
+R06,Avaya/SBC incompatibility,Unsupported release codec certificate or capacity,Call failures and degraded quality,Engineering,Exact versions evidence capacity and interoperability tests,Unresolved representative test failure,Medium
+R07,Emergency calling,Incorrect location routing notification or callback,Life-safety exposure and noncompliance,Customer emergency owner,Specialist review and coordinated approved tests,Missing evidence or any emergency failure,High
+R08,Recording,Integration or retention mismatch,Missing recordings or unauthorized access,Security,Authorized end-to-end recording and access tests,Required recording missing or exposed,Medium
+R09,Fax and special lines,Device power analog or signaling dependency,Loss of critical device function,Customer service owner,Classify owners and test supported paths,Unknown critical device or failed test,High
+R10,Outage and recovery,Unproven workaround or provider incident,Extended disruption,Incident owner,Rehearse feasible stage-specific contingencies,Critical outage or recovery infeasible,High
+R11,Unauthorized changes,Excess privileges or leaked credentials,Misrouting fraud or disclosure,Security,Least privilege MFA logging and approved access,Unexpected access or unapproved change,Medium
+R12,Cost assumptions,Wrong units scope or transition costs,Expected savings not achieved,Customer finance,Comparable baseline terms sensitivity and invoice review,Offer not comparable or unexplained bill,Medium

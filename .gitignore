@@ -1,0 +1,5 @@
+# Local workflow artifacts
+.git/
+*.zip
+*.log
+.publish-state.json
